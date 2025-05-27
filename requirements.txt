@@ -3,4 +3,3 @@ openai>=1.16,<2
 python-dotenv==1.0.*
 autogen>=0.9,<1.0
 llama-index-core==0.12.*
-
