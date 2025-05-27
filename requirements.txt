@@ -1,0 +1,5 @@
+langgraph>=0.4.5,<0.5
+openai==1.15.*
+python-dotenv==1.0.*
+autogen==1.4.*
+llama-index-core==0.12.*
